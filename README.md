@@ -2,7 +2,7 @@
 
 ## Project Description (Prototype Only)
 
-This project is a **sample prototype** of a POS and Inventory Management System designed for RJ Hardware and Electronics. It serves as a demonstration of how a Java Swing and MySQL-based application can handle retail operations.
+This project is a **sample prototype** of a POS and Inventory Management System.. It serves as a demonstration of how a Java Swing and MySQL-based application can handle retail operations.
 
 **Note:** This is an academic/demonstration project and is not intended for use in an actual production environment. 
 
