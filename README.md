@@ -40,6 +40,3 @@ The primary goal of this prototype is to showcase the integration of database ma
     - Compile the project using your preferred IDE (e.g., VS Code with Java extensions, IntelliJ, or NetBeans).
 3.  **Launch**:
     - Run the `Main.java` file to start the application.
-
-## Recent Changes
-- Removed thermal printer support (NetworkPrinterManager and Arduino server) for a more streamlined checkout process.
