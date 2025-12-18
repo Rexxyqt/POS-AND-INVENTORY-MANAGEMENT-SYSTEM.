@@ -1,4 +1,4 @@
-# [SAMPLE] RJ Hardware and Electronics - POS and Inventory Management System
+# [SAMPLE] POS and Inventory Management System
 
 ## Project Description (Prototype Only)
 
